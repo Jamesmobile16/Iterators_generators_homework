@@ -16,9 +16,6 @@ def flat_generator(list_of_lists):
             yield x
 
 
-# for item in flat_generator([['a', 'b', 'c'],['d', 'e', 'f', 'h', False],[1, 2, None]]):
-#     print(item)
-
 def test_2():
 
     list_of_lists_1 = [
